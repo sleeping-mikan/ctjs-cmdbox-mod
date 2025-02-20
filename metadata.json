@@ -1,0 +1,12 @@
+{
+    "name": "MiCmd",
+    "creator": "sleeping-mikan",
+    "description": "",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": [
+        "PogData",
+        "BloomCore",
+        "MI"
+    ]
+}
