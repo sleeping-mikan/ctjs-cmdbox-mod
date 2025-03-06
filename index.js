@@ -398,7 +398,6 @@ const _bind_change = (id, cmd) => {
         cmd = cmd.join(" ");
         data.cmdbox[area].bind[id] = cmd;
     }
-    console.log(cmd);
 
     data.save();
 
